@@ -1,0 +1,17 @@
+# Cargo target directory
+target/
+
+# Rust build artifacts
+*.rst
+*.rmeta
+*.rbc
+
+# Editor backups
+*~
+
+# IntelliJ/Rust
+.idea/
+
+# macOS temporary files
+*.DS_Store
+.env
